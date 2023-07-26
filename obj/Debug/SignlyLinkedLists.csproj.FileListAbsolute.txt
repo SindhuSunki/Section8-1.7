@@ -1,0 +1,8 @@
+D:\Simplilearn classes\Practice Projects\Section8\SignlyLinkedLists\SignlyLinkedLists\obj\Debug\SignlyLinkedLists.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Practice Projects\Section8\SignlyLinkedLists\SignlyLinkedLists\obj\Debug\SignlyLinkedLists.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\Practice Projects\Section8\SignlyLinkedLists\SignlyLinkedLists\obj\Debug\SignlyLinkedLists.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\Practice Projects\Section8\SignlyLinkedLists\SignlyLinkedLists\bin\Debug\SignlyLinkedLists.exe.config
+D:\Simplilearn classes\Practice Projects\Section8\SignlyLinkedLists\SignlyLinkedLists\bin\Debug\SignlyLinkedLists.exe
+D:\Simplilearn classes\Practice Projects\Section8\SignlyLinkedLists\SignlyLinkedLists\bin\Debug\SignlyLinkedLists.pdb
+D:\Simplilearn classes\Practice Projects\Section8\SignlyLinkedLists\SignlyLinkedLists\obj\Debug\SignlyLinkedLists.exe
+D:\Simplilearn classes\Practice Projects\Section8\SignlyLinkedLists\SignlyLinkedLists\obj\Debug\SignlyLinkedLists.pdb
